@@ -104,8 +104,8 @@ module MagicCloud
     end
 
     # FIXME: should be options too
-    FONT_MIN = 35
-    FONT_MAX = 100
+    FONT_MIN = 50
+    FONT_MAX = 300
 
     def make_scaler(words, algo)
       norm =
